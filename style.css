@@ -1,0 +1,440 @@
+.header {
+    background: linear-gradient(rgba(36, 42, 86, .8), rgba(36, 42, 86, .8)), url(img/banner.jpeg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.logo img {
+    width: 119px;
+    height: 53px;
+    margin-top: 35px;
+    margin-left: 0;
+    text-align: start;
+}
+
+.menu {
+    text-align: right;
+
+}
+
+ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.menu ul li a {
+    display: block;
+    text-align: left;
+    font-family: "Open Sans", sans-serif;
+    margin: 19px;
+    font-size: 17px;
+    line-height: 70px;
+    margin-top: 22px;
+    text-decoration: none;
+    color: white;
+    font-weight: 550;
+}
+
+.button {
+    margin-top: 29px;
+    color: white;
+    font-size: 17px;
+    line-height: 25.6px;
+    background: #6878d6;
+    padding: 12px 27px;
+    margin-left: -8px;
+    letter-spacing: 1px;
+    border-radius: 7px;
+    font-weight: 480;
+    transition: .5s;
+
+}
+
+.btn:hover {
+    background-color: #fff !important;
+    color: black;
+}
+
+.banner-content {
+    margin-top: 110px;
+
+}
+
+.banner-content h2 {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: 650;
+    font-size: 22px;
+    margin-bottom: 19px;
+}
+
+.banner-content h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    color: white;
+    font-weight: 820;
+    margin-bottom: 19px;
+
+}
+
+.banner-content p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    color: #eff2ff;
+    line-height: 1.90;
+}
+
+.service {
+    background-color: #EFF2FF;
+    margin-bottom: 100px;
+    height: 930px;
+
+}
+
+.service-content {}
+
+.service-content h1 {
+    color: #242A56;
+    font-size: 46px;
+    margin-top: 83px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 790;
+    text-align: center;
+}
+
+.service-content p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 17px;
+    text-align: center;
+    line-height: 1.8;
+    margin-top: 19px;
+
+}
+
+.icn {
+    color: #7B87CC;
+    font-size: 55px;
+    margin-bottom: 18px;
+
+}
+
+.card {
+    padding: 30px;
+    margin-bottom: 19px;
+
+
+}
+
+.card h3 {
+    font-size: 21px;
+    font-weight: 650;
+    font-family: 'Poppins', sans-serif;
+    color: #242A56;
+
+}
+
+.card p {
+    font-size: 19px;
+    text-align: justify;
+
+}
+
+.edit {
+    font-size: 58px;
+}
+
+
+
+
+.portfolio {
+    text-align: center;
+}
+
+.portfolio h2 {
+    color: #242A56;
+    margin-top: -15px;
+    font-weight: 700;
+    font-size: 47px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.portfolio p {
+    width: 617px;
+    margin: auto;
+    font-weight: 282;
+    padding-bottom: 60px;
+    color: #393a56
+}
+
+.portfolio-img {
+    margin-bottom: 60px;
+}
+
+.another-btn {
+    font-weight: 490;
+    letter-spacing: 1px;
+    padding: 13px 50px;
+    font-size: 17px;
+    margin-bottom: 93px;
+}
+
+.another-btn:hover {
+    background-color: #1230d7 !important;
+}
+
+.customar {
+    text-align: center;
+}
+
+.customar h1 {
+
+    font-size: 55px;
+    font-weight: 590;
+    color: #393a56;
+    letter-spacing: -0.8px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.customar p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 19px;
+    color: #393a56;
+    margin-top: 13px;
+    margin-bottom: 30px;
+
+
+}
+
+.lgo {
+    margin-bottom: 45px;
+    border-right: 1px solid wheat;
+    line-height: 50px;
+    opacity: .7;
+}
+
+/* CEO SECTION START */
+
+
+.ceo {
+    text-align: center;
+    background-color: #eff2ff;
+    margin-bottom: 60px;
+    height: 500px;
+}
+
+.ceo h2 {
+    margin-top: 105px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 34px;
+    color: #393a56;
+    font-weight: 550;
+}
+
+.ceo p {
+    font-family: "Open Sans", sans-serif;
+    color: #393a56;
+    font-size: 19px;
+    width: 763px;
+    margin-bottom: 31px;
+    margin: auto;
+    margin-top: 17px;
+}
+
+.ceo-img {
+    text-align: center;
+    margin-top: 22px;
+
+}
+
+.ceo-pic {
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+
+.ceo-img h2 {
+    margin-top: 18px;
+    font-size: 19px;
+    color: #393a56;
+
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+
+}
+
+
+/* <!-- LEADERSHIP SECTION START --> */
+
+
+.leadership {
+    text-align: center;
+    background-color: rgb(243 238 238 / 16%);
+    margin-bottom: 77px;
+}
+
+.leadership h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #242a56;
+    font-size: 48px;
+    font-weight: 550;
+    margin-bottom: 14px;
+
+}
+
+.leadership p {
+    font-family: "Open Sans", sans-serif;
+    color: #393a56;
+    font-size: 19px;
+
+    width: 636px;
+    margin: auto;
+    margin-bottom: 55px;
+}
+
+.leadership h2 {
+    color: #242a56;
+    margin-top: 15px;
+}
+
+.leadership h3 {
+    color: #393a56;
+    font-weight: 450;
+    margin-bottom: 80px;
+}
+
+.card-two h2 {
+    color: #6878d6;
+    font-weight: 570;
+}
+
+.card-two p {
+    color: #393a56;
+    width: 646px;
+    font-size: 19px;
+    font-weight: 370;
+}
+
+.btn-two {
+    width: 285px;
+    position: absolute;
+    top: 42%;
+    left: 69%;
+    color: white !important;
+    
+}
+
+.btn-two a {
+    color: white;
+    text-decoration: none;
+}
+
+.card-two {
+    background-color: rgba(255, 255, 255, .3) ;
+    height: 170px;
+    margin-bottom: 100px;
+    box-shadow: 4px 11px 6px -1px grey;
+}
+
+.call {
+    font-size: 21px;
+
+    position: absolute;
+    left: 53px;
+    bottom: 12px;
+}
+
+
+
+
+
+
+
+/* footer start */
+
+
+.footer{
+    background-color: #262C57;
+    height: 50vh;
+    padding-top: 62px;
+    
+}
+
+
+.footer img{
+    width: 198px;
+    height: 72px;
+}
+
+.footer p{
+    color: #ffffff;
+    font-size: 22px;
+    margin-top: 13px;
+    font-weight: 320;
+    letter-spacing: -0.2px;
+    margin-left: -13px;
+
+}
+.bottom-icon{
+
+    color: white;
+    padding-left: 0px;
+    font-size: 22px;
+    letter-spacing: 12px;
+
+}
+.clear{
+    clear: both;
+    content: "";
+}
+
+
+
+
+
+
+
+.company{}
+.company h2{
+    margin-left: 32px;
+    color: white;
+    font-size: 29px;
+}
+.company a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin-top: 16px;
+    font-size: 19px;
+    margin-left: 34px;
+}
+.get a{
+    line-height: 19px;
+
+}
+.hr{
+    border-top: 1px solid;
+}
+
+.footer-bottom p{
+    background-color: #262C57;
+    margin-top: -11px;
+    color: white;
+    font-size: 18px;
+    border-top: 1px solid;
+    margin-left: 0px;
+    text-align: center;
+    padding-right: 767px;
+    padding-top: 50px;
+    padding-bottom: 32px;
+    border-color: dimgray;
+}
+.footer-botom p{
+    
+}
